@@ -785,4 +785,6 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
   <!-- OmniROM -->
   <include name="omni-default.xml" />
+  <!-- Lineless devices-->
+  <include name="lineless.xml" />
 </manifest>

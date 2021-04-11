@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="lineless"
+	  fetch="https://github.com" />
+
+  <project name="linelessos/android_device_sony_kagura" path="device/sony/kagura" remote="lineless" revision="lineage-17.1-twrp" />
+  <project name="linelessos/android_device_sony_tone-common" path="device/sony/tone-common" remote="lineless" revision="lineage-17.1-twrp" />
+  <project name="linelessos/android_kernel_sony_msm8996" path="kernel/sony/msm8996" remote="lineless" revision="lineage-17.1" />
+</manifest>
+
